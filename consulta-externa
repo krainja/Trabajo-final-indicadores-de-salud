@@ -1,0 +1,24 @@
+Indicador: Razón de médicos por 1000 personas protegidas:
+Descripcion: Relación del médicos estandarizados a tiempo
+completo sobre la población protegida
+Formula: Número de médicos estandarizados a tiempo completo X 1000/
+Total de la población protegida.
+-----
+Indicador: Razón de Odontólogos por 5000 personas protegidas.
+Descripcion: Relación de Odontólogos estandarizados a
+tiempo completo sobre la población protegida.
+Formula: Número de Odontólogos estandarizados a tiempo completo X 1000 /
+Total de la población protegida
+-------
+Indicador: Razón de Enfermeras Graduadas por médico en Consulta Externa.
+Descripcion: Relación entre el número de enfermeras graduadas y el
+número de médicos de consulta externa.
+Formula: Número de enfermeras graduadas en consulta externa /
+Número de médicos de consulta externa.
+-------
+Indicador: Razón Auxiliares de Enfermería por Médico en Consulta Externa.
+Descripcion: Relación entre el número de auxiliares de enfermería y el
+número de médicos de consulta externa.
+Formula: Número de auxiliares de enfermería de consulta externa /
+Número de médicos de consulta externa.
+-------
