@@ -1,0 +1,21 @@
+Indicador: Tasa de natalidad
+Descripcion: Es una medida de cuantificación  que refiere la relación
+que existe entre el número de nacimientos ocurridos en un
+año relacionado con la  población total.
+Formula: No. Total de nacimientos en un período x 1000 /
+Total de la población protegida
+------
+Indicador: Índice de Mortalidad Hospitalaria.
+Descripcion: Mide el número de muertes que involucra a
+todas las causas de defunción, a todas las edades y sexos ocurridos en el hospital.
+Formula: Nº de defunciones del periodo x 100 /
+Total de egresos del periodo
+------
+Indicador: Tasa de Mortalidad Hospitalaria Temprana
+Descripcion: Muestra la relación de egresos por muerte antes
+de las 48 horas del ingreso,
+respecto al total de usuarios egresados en el mismo
+periodo, multiplicado por 1000.
+Formula: Nº de defunciones antes de las 48 hrs. de ingresado x 1000 /
+Total de egresos hospitalarios
+------
